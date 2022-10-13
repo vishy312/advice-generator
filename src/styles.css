@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card{
+    width: 100%;
+    height: 100vh;
+    background-color: hsl(218, 23%, 16%);
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+
